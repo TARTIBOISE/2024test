@@ -1,3 +1,3 @@
 Ceci est un super fichier ReadMe Malheureusement, je n'ai pour l'instant 
-\n rien à te dire :(
-\n Reviens plus tard
+rien à te dire :(
+Reviens plus tard
